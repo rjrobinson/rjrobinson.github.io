@@ -2,34 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog Name</title>
   <subtitle>Blog subtitle</subtitle>
-  <id>http://blog.url.com/</id>
-  <link href="http://blog.url.com/"/>
+  <id>http://blog.url.com/blog</id>
+  <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-11-10T15:03:00-05:00</updated>
+  <updated>2015-11-10T15:18:00-05:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>TITLE</title>
-    <link rel="alternate" href="http://blog.url.com/title.html"/>
-    <id>http://blog.url.com/title.html</id>
-    <published>2015-11-10T15:03:00-05:00</published>
-    <updated>2015-11-10T15:03:49-05:00</updated>
+    <title>Launching my blog</title>
+    <link rel="alternate" href="http://blog.url.com/blog/launching-my-blog.html"/>
+    <id>http://blog.url.com/blog/launching-my-blog.html</id>
+    <published>2015-11-10T15:18:00-05:00</published>
+    <updated>2015-11-10T15:18:04-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Example Article</title>
-    <link rel="alternate" href="http://blog.url.com/example-article.html"/>
-    <id>http://blog.url.com/example-article.html</id>
-    <published>2011-12-31T19:00:00-05:00</published>
-    <updated>2015-11-10T14:59:22-05:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
-</content>
   </entry>
 </feed>
