@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/blog</id>
+  <link href="http://blog.url.com/blog"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2015-11-10T15:18:00-05:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>Launching my blog</title>
+    <link rel="alternate" href="http://blog.url.com/blog/launching-my-blog.html"/>
+    <id>http://blog.url.com/blog/launching-my-blog.html</id>
+    <published>2015-11-10T15:18:00-05:00</published>
+    <updated>2015-11-10T15:18:04-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html"></content>
+  </entry>
+</feed>
