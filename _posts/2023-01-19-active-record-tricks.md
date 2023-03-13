@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Active Record 101: A Beginner’s Guide to Structure, Form, and Nullify"
 ---
 
@@ -101,4 +101,3 @@ Scopes are like the filters on Instagram. They make sure that only the good stuf
 Active Record also provides support for class methods and instance methods. Class methods are like the cool kids at school. They’re defined on the class level and can be called on the class itself—for example, the def self.new_with_review class method is like the cool kid who always knows the latest fashion trends. It creates a new Book record with a reviewed attribute set to true. Instance methods, on the other hand, are like the nerdy kids at school. They’re defined on the instance level and can be called on an instance of a class. For example, the def read instance method is like the nerdy kid who always has their nose in a book. It performs some action on a specific Book record.
 
 In conclusion, Active Record is like a magical unicorn that makes database management a breeze in Ruby on Rails, but like all unicorns, it can be a bit of a headbanger if you don’t understand how it works. Understanding the order of methods and how they interact with each other is crucial to achieving the desired behavior. So, remember that the order of methods matters and have fun with your code.
-
