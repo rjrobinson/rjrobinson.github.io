@@ -1,7 +1,10 @@
 ---
 layout: posts
 title:  "Active Record 101: A Beginner’s Guide to Structure, Form, and Nullify"
+tags: ruby, rails, active-record
 ---
+
+This blog is a beginner's guide to Active Record in Ruby on Rails, covering topics such as callbacks, associations, validations, scopes, class methods, and instance methods. It emphasizes the importance of understanding the order of methods and how they interact with each other for achieving the desired behavior.
 
 ```ruby
 # Callbacks
