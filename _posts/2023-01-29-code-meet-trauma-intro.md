@@ -1,0 +1,21 @@
+---
+layout: posts
+title:  "Code, meet Trauma: An Introduction"
+tags: ruby, rails, active-record
+---
+
+Hi, I’m RJ Robinson, a now 40-year-old with a long-standing interest in computers and a natural talent for quickly picking up new technologies. Despite being intimidated by advanced math during my youth, I later discovered that I was much more intelligent than I initially thought. My experiences growing up in the 90s had left me feeling discouraged about fixing computers, but I found that I was much more capable than I gave myself credit for.
+
+As an EMT, I applied myself fully to my work and quickly rose through the ranks to become a supervisor, rescue technician, and firefighter. People relied on me to be an important person on the scene of an emergency, and I took pride in knowing that I had the skills to handle whatever challenges came my way. However, despite my success in emergency services, I found myself living paycheck to paycheck and struggling to make ends meet in expensive New Jersey.
+
+It wasn’t until I found myself bedridden for eight weeks after having my tonsils removed that I stumbled upon coding. What started as a fun hobby quickly became a passion, and I decided to attend a coding boot camp and pursue a new career. Despite the risks and skepticism from friends and family, I dove headfirst into this exciting new chapter in my life, driven by my experiences as an EMT and my ability to handle stress. Today, I’m proud to say that I’m on a new path that has transformed my quality of life and mental health and allowed me to live the life I have always dreamed of.
+
+I am both an active EMT and a Senior Software Engineer. I serve as a volunteer EMS Chief for the second time, leading a team of 100 members and responding to over 4000 calls annually. In 2022, I dedicated over 1700 hours of volunteer service. Being an EMT is a significant part of my life. In my full-time role as a Senior Software Engineer at Code Climate, I am proud to be a part of an incredible team, building tools to improve developers’ experiences. Being in tech allows me to pursue my passions and work on things I love.
+
+In 2022, I embarked on a journey to become a better writer and share my experiences and perspectives on technology and coding. I started writing blog posts about my field adventures and thoughts on various topics. I’ve always wanted to be a stronger writer. Writing has always been a way for me to solidify my understanding of a subject. By blogging about it, I aim to improve my writing skills and communicate my ideas more effectively.
+
+In addition to improving my writing, I also wanted to bring a unique viewpoint to the table, drawing from my experiences as an EMT. I am sharing my experiences and insights on programming and engineering as seen through the eyes of someone who has been on the front lines of emergencies. This would offer a different perspective and provide value to others in the tech industry.
+
+In this series of blog posts, I aim to draw parallels between the “Stop The Bleed” philosophy in emergency medical services and software engineering. “Stop The Bleed” is a course that EMS providers take when dealing with traumatic injuries, and it focuses on quick and effective responses to control bleeding. I will explore how this mindset and approach can be applied to various aspects of software engineering, such as code maintenance, problem-solving, and decision-making. By doing so, I hope to offer a unique perspective on software engineering and share valuable insights and lessons learned from my experience as an EMT.
+
+Join me on this exciting journey as I share my perspectives on software engineering and delve into topics such as maintaining legacy code and drawing insights from my experiences as an EMT. I’ll also share some of my emergency call stories (PG-13), which may include some sensitive and graphic descriptions. Over the next few weeks, I will explore the connection between these two seemingly disparate aspects of my life and show how they intersect to inform my approach to software development.
