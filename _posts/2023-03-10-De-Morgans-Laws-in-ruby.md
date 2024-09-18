@@ -1,3 +1,9 @@
+---
+layout: posts
+title:  "De Morgan's Laws in Ruby"
+tags: ruby, rails, active-record
+---
+
 As I approach the culmination of my Bachelor of Science in Computer Science coursework, I find myself immersed in the intricacies of discrete mathematics—a foundational pillar that profoundly influences various domains within computer science. One topic that has particularly piqued my interest is **De Morgan's Laws**, which play a crucial role in logical reasoning and boolean algebra, both of which are integral to software engineering.
 
 In programming languages like Ruby, we frequently use logical operators such as `!` (NOT), `&&` (AND), and `||` (OR) to construct complex boolean expressions. However, in mathematical logic, these operators are denoted differently: `¬` represents NOT, `∧` represents AND, and `∨` represents OR. Learning to interpret and manipulate these symbols is essential for bridging theoretical concepts with practical programming applications.
