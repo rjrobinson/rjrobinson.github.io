@@ -6,20 +6,25 @@ In programming languages like Ruby, we frequently use logical operators such as 
 
 ### Understanding De Morgan's Laws
 
-**De Morgan's Laws** provide us with powerful transformation rules for negating conjunctions (AND statements) and disjunctions (OR statements). They are formulated as follows:
+**De Morgan's Laws**
 
-1. **First Law (Negation of a Conjunction)**:
-   \[
-   \neg (p \land q) \equiv (\neg p) \lor (\neg q)
-   \]
-   *In words*: The negation of an AND statement is equivalent to the OR of the negations.
+De Morgan's Laws provide us with powerful transformation rules for negating conjunctions (AND statements) and disjunctions (OR statements). They are formulated as follows:
 
-2. **Second Law (Negation of a Disjunction)**:
-   \[
-   \neg (p \lor q) \equiv (\neg p) \land (\neg q)
-   \]
-   *In words*: The negation of an OR statement is equivalent to the AND of the negations.
+**First Law (Negation of a Conjunction):**
 
+¬(p ∧ q) ≡ (¬p) ∨ (¬q)
+
+
+In words: The negation of an AND statement is equivalent to the OR of the negations.
+
+**Second Law (Negation of a Disjunction):**
+
+¬(p ∨ q) ≡ (¬p) ∧ (¬q)
+
+
+In words: The negation of an OR statement is equivalent to the AND of the negations.
+
+These laws are instrumental in simplifying logical expressions, especially when dealing with complex conditions in software development.
 These laws are instrumental in simplifying logical expressions, especially when dealing with complex conditions in software development.
 
 ---
